@@ -2,6 +2,9 @@ doctrine2-spatial
 =================
 
 Some spatial data related classes developed for Doctrine 2 to be used in www.wantlet.com, modified to be used with Zend Framework 2.
+All credit to the original author: @jhartikainen
+
+Hopefully later, this will become a ZF2 module.
 
 Implemented composer.json to allow for installation via composer.
 
@@ -14,7 +17,7 @@ Add the following to your composer.json
         "repositories": [
             {
                 "type": "vcs",
-                "url": "https://github.com/jhartikainen/doctrine2-spatial",
+                "url": "https://github.com/tigs001/doctrine2-spatial",
                 "comment": "Doctrine Spatial Data Types"
             }
         ]
